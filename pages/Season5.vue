@@ -1,5 +1,5 @@
 <template>
 <div>
-    <h1>this is lab 6</h1>
+    <h1>this is season 5</h1>
 </div>
 </template>

@@ -1,5 +1,5 @@
 <template>
 <div>
-    <h1>Logout page</h1>
+    <h1>this is season 4</h1>
 </div>
 </template>
